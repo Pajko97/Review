@@ -1,0 +1,9 @@
+$primaryColor : red;
+* {
+    margin: 1em;
+    padding: 1em;
+    color: $primaryColor;
+    box-sizing: border-box;
+    display: grid;
+}
+
